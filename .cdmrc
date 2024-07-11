@@ -1,2 +1,3 @@
-tabs: ['contracts/Escrow.sol']
-terminals: ['yarn install']
+tabs: ["contracts/Escrow.sol"]
+terminals: ["bun install"]
+run-button: truffle compile
